@@ -1,16 +1,5 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=gradient&text=Oleg%20Kukushkin&fontSize=42&fontAlignY=38"/>
 
-<h1 align="center">Hi 👋 I'm Oleg</h1>
-
-<p align="center">
-Software Engineer | Backend • Frontend • Mobile • DevOps
-</p>
-
-<p align="center">
-Building products from idea to production.
-Backend, Frontend, Mobile, Infrastructure and AI.
-</p>
-
 ## 🚀 About Me
 
 - 💼 4+ years of commercial software development
@@ -34,16 +23,12 @@ Backend, Frontend, Mobile, Infrastructure and AI.
 
 ## 📊 Statistics
 
-<p align="center">
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=olezhaku&theme=github_dark"/>
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=olezhaku&theme=github_dark"/>
+<p align="start">
+  <img width="33%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=olezhaku&theme=github_dark"/>
+  <img width="33%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=olezhaku&theme=github_dark"/>
 </p>
 
 ## 🤝 Let's Connect
 
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/olezhaku)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:oleg.kukushkin.com@gmail.com)
-
-## ⭐ Featured Projects
-
-Here are some of the projects I'm most proud of.
