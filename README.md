@@ -1,16 +1,49 @@
-## Hi there 👋
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=gradient&text=Oleg%20Kukushkin&fontSize=42&fontAlignY=38"/>
 
-<!--
-**olezhaku/olezhaku** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hi 👋 I'm Oleg</h1>
 
-Here are some ideas to get you started:
+<p align="center">
+Software Engineer | Backend • Frontend • Mobile • DevOps
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+Building products from idea to production.
+Backend, Frontend, Mobile, Infrastructure and AI.
+</p>
+
+## 🚀 About Me
+
+- 💼 4+ years of commercial software development
+- 🐍 Building scalable backend services with Python
+- 🌐 Developing modern web applications with React & Vue
+- 📱 Creating Android and React Native applications
+- ☁️ Deploying and maintaining production infrastructure
+- 🤖 Exploring AI integrations and automation
+- 🔐 Interested in Cybersecurity & Open Source
+
+## 🛠 Tech Stack
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square)
+![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-121011?style=flat-square&logo=gnubash)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+
+## 📊 Statistics
+
+<p align="center">
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=olezhaku&theme=github_dark"/>
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=olezhaku&theme=github_dark"/>
+</p>
+
+## 🤝 Let's Connect
+
+[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/olezhaku)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:oleg.kukushkin.com@gmail.com)
+
+## ⭐ Featured Projects
+
+Here are some of the projects I'm most proud of.
