@@ -21,13 +21,6 @@
 ![Bash](https://img.shields.io/badge/Bash-121011?style=flat-square&logo=gnubash)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
-## 📊 Statistics
-
-<p align="start">
-  <img width="33%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=olezhaku&theme=github_dark"/>
-  <img width="33%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=olezhaku&theme=github_dark"/>
-</p>
-
 ## 🤝 Let's Connect
 
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/olezhaku)
